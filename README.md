@@ -1,4 +1,4 @@
-# Assignment 10: 
+# Assignment 10 
 This repository includes my work for Assignment 10.
 ## Files Included 
 - module10-assignment.py 
